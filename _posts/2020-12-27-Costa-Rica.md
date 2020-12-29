@@ -6,7 +6,9 @@ categories: CostaRica Log
 published: true
 ---
 
+
 #Day One
+
 We got to our airBnb around 3:30am!
 ![Air bnb interior](/assets/CostaRica/airBnb_1_inside.jpeg)
 

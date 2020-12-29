@@ -3,7 +3,7 @@ layout: post
 title: "Welcome to Costa Rica!"
 date: 2020-12-27 15:17:56 -0600
 categories: CostaRica Log
-published: false
+published: true
 ---
 
 #Day One

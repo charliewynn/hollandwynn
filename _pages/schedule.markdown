@@ -4,6 +4,7 @@ title: "Schedule"
 date: 2020-12-27 15:17:56 -0600
 categories: CostaRica Log
 published: true
+permalink: /schedule/
 ---
 
 # What day is the wedding?

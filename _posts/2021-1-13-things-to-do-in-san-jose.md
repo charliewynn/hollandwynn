@@ -26,7 +26,7 @@ With that out of the way here's some fun things to do in San Jose:
 
 # Zoo
 
-[Zoológico y Jardín Botánico Nacional](https://g.page/zoosimonbolivar?share) We had a great time at the zoo and would be happy to go back with you!
+<a href="https://g.page/zoosimonbolivar?share" target="_blank">Zoológico y Jardín Botánico Nacional</a> We had a great time at the zoo and would be happy to go back with you!
 
 # Walking/Shoping
 
@@ -34,14 +34,14 @@ Walking/Shopping on Avenida 1 (right half of the safe zone, between the two 'yel
 
 # Museum
 
-[Museo](https://goo.gl/maps/WnBeys1VrrXo7oqT6) We did not have the chance to go to the museum. If you go let us know how it was, we'd like to check it out sometime.
+<a href="https://goo.gl/maps/WnBeys1VrrXo7oqT6" target="_blank">Museo</a> We did not have the chance to go to the museum. If you go let us know how it was, we'd like to check it out sometime.
 
 # Indoor Climbing
 
-We went to [Mundo Aventura](https://goo.gl/maps/N6WRgzyKsjjz7tha9) and climbed for about an hour. They didn't seem to have an official price for this but we gave one of the employees $20 for showing us the ropes. It's a small gym, if people want to go it should be in very small groups (2-3 people). So we don't hog the walls from the real members. Their shoe selection was limited (Charlie had to climb in street shoes). So bring your own pair if you have big feet.
+We went to <a href="https://goo.gl/maps/N6WRgzyKsjjz7tha9" target="_blank">Mundo Aventura</a> and climbed for about an hour. They didn't seem to have an official price for this but we gave one of the employees $20 for showing us the ropes. It's a small gym, if people want to go it should be in very small groups (2-3 people). So we don't hog the walls from the real members. Their shoe selection was limited (Charlie had to climb in street shoes). So bring your own pair if you have big feet.
 
-There is another indoor gym we would like to try. [Pura Roca](https://goo.gl/maps/QCoALJgFdh976L6k6)
+There is another indoor gym we would like to try. <a href="https://goo.gl/maps/QCoALJgFdh976L6k6" target="_blank">Pura Roca</a>
 
 # Outdoor Climbing
 
-There's a [free guide book](https://issuu.com/dustinjj/docs/climbing_costa_rica/1?ff) (sign up for a free account). Which describes several spots we can go. We're planning on renting a car and driving to at least one of these after we're back in San Jose after we leave Jaco.
+There's a <a href="https://issuu.com/dustinjj/docs/climbing_costa_rica/1?ff" target="_blank">free guide book</a> (sign up for a free account). Which describes several spots we can go. We're planning on renting a car and driving to at least one of these after we're back in San Jose after we leave Jaco.

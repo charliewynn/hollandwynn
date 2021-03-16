@@ -37,3 +37,6 @@ permalink: /
         <img class="welcome__image" src="\assets\Wedding\costa-rica.jpg" />
     </div>
 </div>
+<div>
+    <img class="welcome__image" src="\assets\CostaRica\costa_rica_map.png" />
+</div>

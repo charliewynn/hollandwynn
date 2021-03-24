@@ -6,4 +6,8 @@ categories: CostaRica FAQ Wedding
 published: true
 ---
 
-We are registered at [Amazon](https://www.amazon.com/wedding/share/hollandwynn) and [Bed Bath & Beyond](https://www.bedbathandbeyond.com/store/giftregistry/viewregistryguest/549163330?eventType=Wedding)
+We are registered at
+
+- [Amazon](https://www.amazon.com/wedding/share/hollandwynn)
+- [Bed Bath & Beyond](https://www.bedbathandbeyond.com/store/giftregistry/viewregistryguest/549163330?eventType=Wedding)
+- [Target](https://www.target.com/gift-registry/giftgiver?registryId=df46048c07734245a9bdfc125bbe29ae)

@@ -29,18 +29,18 @@ As of today United seems to have the cheapest flights. We recommend you look at 
 We will hang out in San Jose Wednesday after our flight and Thursday.
 [Things to do in San Jose]({% link _posts/2021-1-13-things-to-do-in-san-jose.md %})
 
-We will take an Uber or taxi from the airport to our airBNB. We will stay in the airBNB in San Jose Wednesday and Thursday night (the 28th and 29th). Our airBNB is near the <a href="https://goo.gl/maps/CBm5DpVbK1six8f66" target="_blank">La Sabana Park</a> We can help you book an airBNB nearby, or feel free to find your own or hotel. (If you stay at a hotel they may offer a free shuttle from the airport which will save you $20-$30)
+We will take an Uber or taxi from the airport to our airBNB. We will stay in the airBNB in San Jose Wednesday and Thursday night (the 28th and 29th). Our airBNB is in <a href="https://goo.gl/maps/ZR1ktwgCvdfYQpp56" target="_blank">URBN Escalante</a>. On our last trip we also stayed near the <a href="https://goo.gl/maps/CBm5DpVbK1six8f66" target="_blank">La Sabana Park</a> We can help you book an airBNB near us, or feel free to find your own or hotel. (If you stay at a hotel they may offer a free shuttle from the airport which will save you $20-$30)
 
 ## On Friday July 30th we will take a bus from San Jose to Jaco
 
 The bus takes about 2.5 hours and costs a little under $5. An Uber takes about 2 hours and costs around $70.
 
 I can help you buy the ticket online. **The website is in Spanish. If you allow your browser to translate the page for you THE PAGE WILL NOT WORK.** You can translate the page to figure out how to navigate around. But translating it will break the drop-downs when buying your ticket and you'll get errors.  
-<a href="https://www.transportesjacoruta655.com/" target="_blank">Bus Ticket Website</a> - I don't mind buying your ticket if you want to email me and tell me when you need the bus.
+<a href="https://www.transportesjacoruta655.com/" target="_blank">Bus Ticket Website</a> - I don't mind helping you buy your ticket if you want to email me and tell me when you need the bus.
 
 We will take the 11:00am bus. You can't eat on the bus, so have a late breakfast.
 
-The bus leaves from <a href="https://goo.gl/maps/TwM3BPQhHBQPp77R8" target="_blank">Terminal 7-10 : San Jose, CR</a> and arrives at <a href="https://goo.gl/maps/sLpCY2Zfv9PWZAwT9" target="_blank">Plaza Boulevard : Jaco, CR</a>
+The bus leaves from <a href="https://goo.gl/maps/TwM3BPQhHBQPp77R8" target="_blank">Terminal 7-10 : San Jose, CR</a> and arrives at <a href="https://goo.gl/maps/sLpCY2Zfv9PWZAwT9" target="_blank">Plaza Boulevard : Jaco, CR</a> (don't get off the bus early even if it looks like it's passing Jaco!)
 
 In Jaco we will probably get a late lunch and do some very quick grocery shopping. Charlie is going to rent a car in Jaco. We don't think this will be necessary for anyone else (you are welcome to rent one of course). Then we will get everyone into an Uber/Taxi/Charlie's rental car and drive 25 minutes to the airBNB in <a href="https://goo.gl/maps/cD1b9uLx5rgHzvuz8" target="_blank">Bejuco, CR</a>.
 

@@ -19,6 +19,8 @@ If you're staying in the URBN Escalante building (I think most people are) you c
 
 200 m sur del Parque Francia, Av 1, Barrio Escalante, San José, San Jose, 10101, Costa Rica
 
+**If you purchased the Trawick insurance (that we recommended) use the "international" option when it asks you which plan you have**
+
 We had no issues with a fake seat number on our earlier trip. If your airline hasn't assigned you a seat yet I personally would just invent one (I did "7a"). You can edit your health pass later when you get a seat assignment but last time we didn't bother and had no issues.
 
 When choosing the Travel Insurance choose "International".

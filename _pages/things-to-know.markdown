@@ -14,3 +14,7 @@ permalink: /things-to-know/
 [Registry]({% link _posts/2021-2-1-registry.md %})
 
 [Clothing]({% link _posts/2021-04-09-clothing.md %})
+
+[Bus Tickets]({% link _posts/2021-07-25-bus-tickets.md %})
+
+[Health Pass]({% link _posts/2021-07-25-health-pass.md %})

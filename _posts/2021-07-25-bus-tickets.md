@@ -52,3 +52,11 @@ Via car (uber) it takes about an hour and a half. The bus makes a few stops and 
 5. This page probably looks familiar even in Spanish. Enter your credit card info.
 
 6. After you finish this step it should take you back to the site. Your tickets with a QR code will be emailed to you. You need the QR code to get on the bus.
+
+# Getting off at the airport
+
+If you take the bus from Jaco back to San Jose you can get off at terminal 7-10 (where we got on).
+Or if you're timing your flight just right you can get off at the airport (the airport stop is BEFORE 7-10).
+
+**If you get off at the airport.**
+Before you step off the bus. Tell the driver that you have a suitcase ("Tengo una melata") and don't get off until he steps off to open the underneath of the bus for you.

@@ -54,12 +54,17 @@ The wedding is on the 1st. We will all hang out at the airBNBs after. Everyone w
 
 ## From this point on we expect people to stay as long as they like or head back home.
 
-We will stay in Jaco for 3-5 days and encourage other people to stay and play at the beach with us. There is some hiking nearby as well. Many local stores offer various wildlife/nature tours also.
+We will stay in Jaco for 2 days and encourage other people to stay and play at the beach with us. There is some hiking nearby as well. Many local stores offer various wildlife/nature tours also.
 
-The bus from Jaco to San Jose stops at the airport. I can help you book your ticket and you can go straight to the airport to go home. (If you do this ask me about it. I'll tell you what you need to know to make sure you get off at the right spot.)
+The bus from Jaco to San Jose stops at the airport. I can help you book your ticket and you can go straight to the airport to go home. (If you do this ask me about it. I'll tell you what you need to know to make sure you get off at the right spot.) Check out the
+[Bus Tickets]({% link _posts/2021-07-25-bus-tickets.md %}) page for more info
 
-## Around the 6th we will go back to San Jose
+## On the 4th we (Leah, Charlie and a handful of others) will go to La Fortuna
 
-In San Jose we will do some more walking around, shopping, eating. And plan to rent a car to go outdoor rock climbing. Everyone is invited, if you want to try or just watch please feel welcome to join us.
+We will explore around the mountain area the 4th, 5th, 6th, 7th
+
+# We go to San Jose on the 7th.
+
+Most people will be home by then, but Leah and Charlie will stay in San Jose the 7th & 8th
 
 ## We leave Costa Rica on Monday, August 9th
